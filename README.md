@@ -8,3 +8,5 @@ A simple calculator for doing arithmetic operations. The project was executed wi
 - ***JavaScript***
 
 ***
+
+website: https://simplecalcproject.netlify.app/
