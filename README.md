@@ -2,11 +2,21 @@
  
 
 ***
-A simple calculator for doing arithmetic operations. The project was executed with events only (DOM Events) by using :
-- ***HTML, CSS***
-
-- ***JavaScript***
-
+A simple online calculator for doing arithmetic operations.
 ***
+## What I learned 
+- Promises
+- Events IndexedDB
+- Interactions
+- DOM
+- Error handling 
 
-website: https://simplecalcproject.netlify.app/
+
+## Languages & Frameworks used:
+- JavaScript
+- HTML
+- CSS
+- Bootstrap
+
+
+## Website: https://simplecalcproject.netlify.app/
